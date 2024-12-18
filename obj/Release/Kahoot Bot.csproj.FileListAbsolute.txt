@@ -1,0 +1,15 @@
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Release\selenium-manager\linux\selenium-manager
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Release\selenium-manager\macos\selenium-manager
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Release\selenium-manager\windows\selenium-manager.exe
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Release\Kahoot Bot.exe.config
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Release\Kahoot Bot.exe
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Release\Kahoot Bot.pdb
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Release\WebDriver.dll
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Release\WebDriver.Support.dll
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Release\Kahoot Bot.csproj.AssemblyReference.cache
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Release\Kahoot Bot.csproj.SuggestedBindingRedirects.cache
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Release\Kahoot Bot.csproj.CoreCompileInputs.cache
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Release\Kahoot Bot.csproj.CopyComplete
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Release\Kahoot Bot.exe
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Release\Kahoot Bot.pdb

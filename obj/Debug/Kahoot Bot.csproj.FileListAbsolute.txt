@@ -1,0 +1,30 @@
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.csproj.AssemblyReference.cache
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.csproj.SuggestedBindingRedirects.cache
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.csproj.CoreCompileInputs.cache
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\Kahoot Bot.exe.config
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\Kahoot Bot.exe
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\Kahoot Bot.pdb
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\WebDriver.dll
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.csproj.CopyComplete
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.exe
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.pdb
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\WebDriver.Support.dll
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\adam.salonen\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\Kahoot Bot.exe.config
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\Kahoot Bot.exe
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\Kahoot Bot.pdb
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\WebDriver.dll
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\bin\Debug\WebDriver.Support.dll
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.csproj.AssemblyReference.cache
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.csproj.SuggestedBindingRedirects.cache
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.csproj.CoreCompileInputs.cache
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.csproj.CopyComplete
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.exe
+C:\Users\adams\Documents\GitHub\Application\Application\Kahoot Bot\obj\Debug\Kahoot Bot.pdb
